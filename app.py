@@ -6,7 +6,7 @@ import pandas as pd
 
 import streamlit as st
 
-st.image("logo1.jpg")
+
 
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
 
